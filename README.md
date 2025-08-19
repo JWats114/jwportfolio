@@ -6,7 +6,7 @@
 - JavaScript
 
 ## Features
-- Responsive design for desktop and mobile
+- Responsive design for desktop
 - Showcase of projects with descriptions and links
 - Contact form to reach out directly
 - Smooth scrolling and navigation
@@ -14,5 +14,6 @@
 
 ## Additional Notes
 - Hosted on GitHub Pages
+- Mobile support coming soon
 - Feel free to customize the content by editing the HTML/CSS/JS files.
 - Contributions and suggestions are welcome
